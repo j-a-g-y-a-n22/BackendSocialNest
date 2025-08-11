@@ -82,7 +82,7 @@ backend/
 ### 1️⃣ Clone the Repository
 ```bash
 git clone https://github.com/j-a-g-y-a-n22/BackendSocialNest.git
-cd Backend
+cd BackendSocialNest
 
 ```
 ### 2️⃣ Install Dependencies
