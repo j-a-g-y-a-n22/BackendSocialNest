@@ -3,7 +3,7 @@
 This is the **backend service** for **SocialNest**, a social media–style MERN application where users can sign up, share content, follow others, and interact socially.  
 The backend provides secure authentication, profile management, file uploads, following system, and a REST API for frontend integration.
 
-**GitHub Repo:** [SocialNest Backend](https://github.com/j-a-g-y-a-n22/Backend.git)
+**GitHub Repo:** [SocialNest Backend](https://github.com/j-a-g-y-a-n22/BackendSocialNest.git)
 
 ---
 
@@ -81,7 +81,7 @@ backend/
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/j-a-g-y-a-n22/Backend.git
+git clone https://github.com/j-a-g-y-a-n22/BackendSocialNest.git
 cd Backend
 
 ```
