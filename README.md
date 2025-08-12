@@ -120,26 +120,22 @@ npm run dev
 npm start
 ```
 
-
 ## 📌 API Documentation
-### 🔑 Authentication
-Method	Endpoint	Description	Auth Required
-POST	/api/auth/signup	Register new user	❌
-POST	/api/auth/login	Login & receive JWT	❌
+| Section          | Method | Endpoint           | Description                | Auth Required |
+|------------------|--------|--------------------|----------------------------|--------------|
+| **Authentication** | POST   | /api/auth/signup   | Register new user           | ❌            |
+|                  | POST   | /api/auth/login    | Login & receive JWT         | ❌            |
+| **Profile**      | GET    | /api/profile       | Get logged-in user profile  | ✅            |
+|                  | PUT    | /api/profile       | Update profile details      | ✅            |
+|                  | POST   | /api/upload        | Upload/change profile picture | ✅          |
+| **Social Features** | POST   | /api/follow/:id    | Follow a user               | ✅            |
+|                  | DELETE | /api/follow/:id    | Unfollow a user             | ✅            |
+|                  | GET    | /api/search        | Search for users            | ✅            |
+|                  | POST   | /api/like/:postId  | Like a post                | ✅            |
+|                  | DELETE | /api/like/:postId  | Unlike a post              | ✅            |
 
-### 👤 Profile
-Method	Endpoint	Description	Auth Required
-GET	/api/profile	Get logged-in user profile	✅
-PUT	/api/profile	Update profile details	✅
-POST	/api/upload	Upload/change profile picture	✅
 
-### 🤝 Social Features
-Method	Endpoint	Description	Auth Required
-POST	/api/follow/:id	Follow a user	✅
-DELETE	/api/follow/:id	Unfollow a user	✅
-GET	/api/search	Search for users	✅
-POST	/api/like/:postId	Like a post	✅
-DELETE	/api/like/:postId	Unlike a post	✅
+**#More Features will be added soon**
 
 ## 🌐 Deployment
 
