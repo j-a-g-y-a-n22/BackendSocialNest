@@ -165,4 +165,4 @@ This project is licensed under the ISC License.
 
 **GitHub: j-a-g-y-a-n22****
 
-**LinkedIn: (Add your profile link here)****
+**LinkedIn: [Linkedin](www.linkedin.com/in/jagyandutta-sahoo-4ab83727a)**
