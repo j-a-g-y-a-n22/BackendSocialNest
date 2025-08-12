@@ -163,6 +163,6 @@ This project is licensed under the ISC License.
 # 👨‍💻 Author
 **Jagyandutta Sahoo**
 
-**GitHub: j-a-g-y-a-n22****
+**GitHub: j-a-g-y-a-n22**
 
 **LinkedIn: [Linkedin](www.linkedin.com/in/jagyandutta-sahoo-4ab83727a)**
