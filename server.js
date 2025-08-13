@@ -1,7 +1,7 @@
 import 'dotenv/config';
 import express from 'express';
 import cors from 'cors';
-import connectToMongo from './databse.js';
+import connectToMongo from './utils/database.js';
 import Auth from './routes/auth.js';
 import Note from './routes/profile.js';
 import upload from './routes/upload.js';
